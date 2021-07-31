@@ -53,7 +53,7 @@
                 attrs: {
                     type: "iframe",
                     aspect: "4by3",
-                    src: "/bep20-generator-terms.html",
+                    src: "/kip20-generator-terms.html",
                     allow: "accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture",
                     allowfullscreen: ""
                 }
@@ -80,21 +80,21 @@
                 }, [a("b-navbar-nav", [a("b-nav-item", {
                     attrs: {
                         href: "/",
-                        active: "Generator" === t.page
+                        active: "Generator1" === t.page
                     }
                 }, [t._v("Token Generator")]),t._v(" ")], 1), t._v(" "), a("b-navbar-nav", {staticClass: "ml-auto"}, [
                     t._v(" "),
                     a("b-nav-item", {
                         attrs: {
                             href: "/bep20-generator",
-                            active: "Generator" === t.page
+                            active: "Generator1" === t.page
                         }
                     }, [t._v("Greate BEP20 Token")]),
                     t._v(" "),
                     a("b-nav-item", {
                         attrs: {
                             href: "/kip20-generator",
-                            active: "Generator" === t.page
+                            active: "Generator1" === t.page
                         }
                     }, [t._v("Greate KIP20 Token")]),
                      t._v(" "), a("b-nav-item", {

@@ -6,16 +6,16 @@
             var t = this, e = t.$createElement, a = t._self._c || e;
             return a("div", [a("b-jumbotron", {
                 staticClass: "mb-0 wiretap-gradient",
-                attrs: {"text-variant": "white", header: "BEP20 Token Generator", fluid: ""},
+                attrs: {"text-variant": "white", header: "KIP20 Token Generator", fluid: ""},
                 scopedSlots: t._u([{
                     key: "lead", fn: function () {
-                        return [t._v("\n            Create a BEP20 Token in less than a minute with the new Smart Contract Generator for Binance Smart Chain.\n            "), a("br"), t._v("\n            No login. No setup. No coding required.\n        ")]
+                        return [t._v("\n            Create a KIP20 Token in less than a minute with the new Smart Contract Generator for OKEX Smart Chain.\n            "), a("br"), t._v("\n            No login. No setup. No coding required.\n        ")]
                     }, proxy: !0
                 }])
             }, [t._v(" "), a("hr", {staticClass: "my-5"}), t._v(" "), a("p", [a("b-button", {
                 staticClass: "my-2 py-3 px-5 text-uppercase",
                 attrs: {to: "/create-token/", size: "lg", variant: "success"}
-            }, [t._v("\n                Create BEP20 Token\n            ")]), t._v(" "), a("a", {
+            }, [t._v("\n                Create KIP20 Token\n            ")]), t._v(" "), a("a", {
                 directives: [{
                     name: "smooth-scroll",
                     rawName: "v-smooth-scroll",
@@ -28,7 +28,7 @@
             }, [a("b-col", {
                 staticClass: "mb-3",
                 attrs: {lg: "8", "offset-lg": "2"}
-            }, [a("h2", {staticClass: "p-5 font-weight-lighter text-center text-dark"}, [t._v("How it works")]), t._v(" "), a("h4", {staticClass: "text-center font-weight-light"}, [t._v("\n                Create a BEP20 Token in less than a minute.\n            ")]), t._v(" "), a("p", {staticClass: "text-center font-weight-light"}, [t._v("\n                Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token.\n                "), a("br"), t._v("\n                No login.\n                No setup.\n                No coding required.\n            ")]), t._v(" "), a("ui--how-it-works")], 1)], 1), t._v(" "), a("b-row", {
+            }, [a("h2", {staticClass: "p-5 font-weight-lighter text-center text-dark"}, [t._v("How it works")]), t._v(" "), a("h4", {staticClass: "text-center font-weight-light"}, [t._v("\n                Create a KIP20 Token in less than a minute.\n            ")]), t._v(" "), a("p", {staticClass: "text-center font-weight-light"}, [t._v("\n                Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable KIP20 Token.\n                "), a("br"), t._v("\n                No login.\n                No setup.\n                No coding required.\n            ")]), t._v(" "), a("ui--how-it-works")], 1)], 1), t._v(" "), a("b-row", {
                 staticClass: "aqua-gradient mx-0",
                 attrs: {id: "pricing"}
             }, [a("b-col", {
@@ -37,10 +37,10 @@
             }, [a("h2", {staticClass: "p-5 font-weight-lighter text-center text-light"}, [t._v("Pricing")]), t._v(" "), a("ui--pricing-table")], 1)], 1), t._v(" "), a("b-row", {staticClass: "bg-dark text-white mx-0"}, [a("b-col", {
                 staticClass: "mb-3 text-center",
                 attrs: {lg: "10", "offset-lg": "1"}
-            }, [a("h2", {staticClass: "pt-5 mb-4 font-weight-lighter text-light"}, [t._v("Ready to deploy your BEP20 Token?")]), t._v(" "), a("p", {staticClass: "font-weight-light"}, [t._v("\n                Try building your BEP20 Token in less than a minute. You can try on Test Network before to go live.\n            ")]), t._v(" "), a("b-button", {
+            }, [a("h2", {staticClass: "pt-5 mb-4 font-weight-lighter text-light"}, [t._v("Ready to deploy your KIP20 Token?")]), t._v(" "), a("p", {staticClass: "font-weight-light"}, [t._v("\n                Try building your KIP20 Token in less than a minute. You can try on Test Network before to go live.\n            ")]), t._v(" "), a("b-button", {
                 staticClass: "my-5 py-3 px-5 text-uppercase",
                 attrs: {to: "/create-token/", size: "lg", variant: "success"}
-            }, [t._v("\n                Create BEP20 Token\n            ")])], 1)], 1), t._v(" "), a("b-row", {
+            }, [t._v("\n                Create KIP20 Token\n            ")])], 1)], 1), t._v(" "), a("b-row", {
                 staticClass: "peach-gradient mx-0",
                 attrs: {id: "features"}
             }, [a("b-col", {
@@ -55,10 +55,10 @@
             }, [a("h2", {staticClass: "p-5 font-weight-lighter text-center text-light"}, [t._v("FAQ")]), t._v(" "), a("ui--faq")], 1)], 1), t._v(" "), a("b-row", {staticClass: "bg-light text-dark mx-0"}, [a("b-col", {
                 staticClass: "mb-3 text-center",
                 attrs: {lg: "10", "offset-lg": "1"}
-            }, [a("h2", {staticClass: "pt-5 mb-4 font-weight-lighter text-dark"}, [t._v("Ready to deploy your BEP20 Token?")]), t._v(" "), a("p", {staticClass: "font-weight-light"}, [t._v("\n                Try building your BEP20 Token in less than a minute. You can try on Test Network before to go live.\n            ")]), t._v(" "), a("b-button", {
+            }, [a("h2", {staticClass: "pt-5 mb-4 font-weight-lighter text-dark"}, [t._v("Ready to deploy your KIP20 Token?")]), t._v(" "), a("p", {staticClass: "font-weight-light"}, [t._v("\n                Try building your KIP20 Token in less than a minute. You can try on Test Network before to go live.\n            ")]), t._v(" "), a("b-button", {
                 staticClass: "my-5 py-3 px-5 text-uppercase",
-                attrs: {href: "/bep20-generator/create-token", size: "lg", variant: "success"}
-            }, [t._v("\n                Create BEP20 Token\n            ")])], 1)], 1)], 1)
+                attrs: {href: "/kip20-generator/create-token", size: "lg", variant: "success"}
+            }, [t._v("\n                Create KIP20 Token\n            ")])], 1)], 1)], 1)
         }), [], !1, null, null, null);
         e.default = o.exports
     }

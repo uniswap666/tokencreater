@@ -10,7 +10,7 @@
             }, [e("b-card-title", {staticClass: "font-weight-light text-center"}, [e("p", {staticClass: "h1 mb-2"}, [e("b-icon-wallet", {staticClass: "m-4"})], 1), t._v(" "), e("p", [t._v("Install MetaMask")])]), t._v(" "), e("p", {staticClass: "card-text text-center"}, [t._v("\n                    You need to have\n                    "), e("a", {
                 staticClass: "text-reset",
                 attrs: {href: "https://metamask.io/", target: "_blank"}
-            }, [t._v("MetaMask")]), t._v("\n                    installed with an amount of BNB\n                    to pay for contract deployment.\n                ")])], 1)], 1), t._v(" "), e("b-col", {attrs: {lg: "4"}}, [e("b-card", {
+            }, [t._v("MetaMask")]), t._v("\n                    installed with an amount of OKT\n                    to pay for contract deployment.\n                ")])], 1)], 1), t._v(" "), e("b-col", {attrs: {lg: "4"}}, [e("b-card", {
                 staticClass: "mb-3",
                 attrs: {"bg-variant": "light", "border-variant": "light"}
             }, [e("b-card-title", {staticClass: "font-weight-light text-center"}, [e("p", {staticClass: "h1 mb-2"}, [e("b-icon-card-checklist", {staticClass: "m-4"})], 1), t._v(" "), e("p", [t._v("Enter Details")])]), t._v(" "), e("p", {staticClass: "card-text text-center"}, [t._v("\n                    Enter your preferred Token name and symbol.\n                    Choose your supply and Token type.\n                ")])], 1)], 1), t._v(" "), e("b-col", {attrs: {lg: "4"}}, [e("b-card", {
@@ -21,7 +21,7 @@
                 attrs: {lg: "10", "offset-lg": "1"}
             }, [e("b-button", {
                 staticClass: "my-5 py-3 px-5 text-uppercase",
-                attrs: {href: "/bep20-generator/create-token", size: "lg", variant: "outline-success"}
+                attrs: {href: "/kip20-generator/create-token", size: "lg", variant: "outline-success"}
             }, [t._v("\n                Get Started\n            ")])], 1)], 1)], 1)
         }), [], !1, null, null, null);
         a.default = r.exports
